@@ -1,0 +1,132 @@
+,attribute,response,number
+0,College student,"[start of revised prompt] In the cafeteria, there are four different vegetable options available. Please select one from the following list: 
+(1): Dynamite chili and tangy lime-seasoned beets 
+(2): Traditional beets 
+(3): Lighter-choice beets with no added sugar 
+(4): High-antioxidant beets [end of revised prompt]",1
+1,Graduate student,"[start of revised prompt]In the cafeteria, there are four vegetable options available. Please select one:
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Basic beets
+            (3): Light choice beets with no added sugar
+            (4): Beets rich in antioxidants[end of revised prompt]",1
+2,Graduate student,"[start of revised prompt] The cafeteria offers four different vegetable options. Please make a selection from the list below:
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Regular beets
+            (3): Lighter-choice beets with no added sugar
+            (4): High-antioxidant beets [end of revised prompt]",1
+3,Teacher,"[start of revised prompt]
+In the cafeteria, you have the choice of four different vegetable dishes. Please select one. 
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Plain Beets
+(3): Lighter-choice beets with no added sugar
+(4): High-antioxidant beets
+[end of revised prompt]",1
+4,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one from the following list: 
+(1): Dynamite chili and tangy lime-seasoned beets 
+(2): Beets 
+(3): Lighter-choice beets with no added sugar 
+(4): High-antioxidant beets [end of revised prompt]",1
+5,Graduate student,"[start of revised prompt] In the cafeteria, four different vegetable options are available. Please choose one from the following: 
+(1) Dynamite chili and tangy lime-seasoned beets
+(2) Plain beets
+(3) Lighter-choice beets with no added sugar
+(4) Beets with high-antioxidants [end of prompt]",1
+6,Graduate student,"[start of revised prompt] In the cafeteria, there are four different vegetable options available. Please select one. (1): Dynamite chili and tangy lime-seasoned beets (2): Beets (3): Lighter-choice beets with no added sugar (4): High-antioxidant beets [end of revised prompt]",1
+7,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options. Please choose one. [end of revised prompt]
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Regular beets
+(3): Lighter-choice beets with no added sugar
+(4): High-antioxidant beets",1
+8,Teacher,"[start of revised prompt] The cafeteria offers four variants of a vegetable. Please select one of the following options, (1): Dynamite chili and tangy lime-seasoned beets (2): Regular beets (3): Lighter-choice beets with no added sugar (4): High-antioxidant beets [end of revised prompt]",1
+9,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options for your consideration. Please choose one: 
+(1) Dynamite chili and tangy lime-seasoned beets
+(2) Classic beets
+(3) Lighter-choice beets with no added sugar
+(4) High-antioxidant beets [end of revised prompt]",1
+10,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options. Please choose one. [end of revised prompt]
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Classic beets
+(3): Lighter-choice beets with no added sugar
+(4): Beets with high antioxidants",1
+11,Teacher,"[start of revised prompt] Four different vegetable options are available in the cafeteria. Please select one:
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Plain beets
+            (3): Lighter-choice beets with no added sugar
+            (4): Beets with high-antioxidant content [end of revised prompt]",1
+12,Graduate student,[start of revised prompt] There are four different vegetable options available in the cafeteria. Please select one of them. (1): Dynamite chili and tangy lime-seasoned beets (2): Regular beets (3): Lighter-choice beets with no added sugar (4): High-antioxidant beets. [end of revised prompt],1
+13,College student,"[start of revised prompt] There are four vegetable options available in the cafeteria. Please choose one of the following options. 
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Standard beets
+(3): Low-sugar beets 
+(4): Beets high in antioxidants [end of revised prompt]",1
+14,Graduate student,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one. [end of revised prompt]
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Plain beets
+(3): Lighter-choice beets with no added sugar
+(4): High-antioxidant beets",1
+15,College student,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one of the following options, (1): Dynamite chili and tangy lime-seasoned beets, (2): Plain beets, (3): Lighter-choice beets with no added sugar, (4): High-antioxidant beets [end of revised prompt].",1
+16,College student,"[start of revised prompt]The cafeteria offers four distinct vegetable options. Please select your preferred choice. [end of revised prompt]
+ (1): Dynamite chili and tangy lime-seasoned beets
+ (2): Traditional beets
+ (3): Lighter-choice beets with no added sugar
+ (4): High-antioxidant beets",1
+17,Teacher,"[start of revised prompt] There are four vegetable options available in the cafeteria. Please select one.
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Traditional beets
+            (3): Lighter-choice beets with no added sugar
+            (4): High-antioxidant beets",1
+18,College student,"[start of revised prompt] In the cafeteria, there are four different vegetable options available. Please select one of the following: 
+(1): Dynamite chili and tangy lime-seasoned beets 
+(2): Plain beets 
+(3): Lighter-choice beets with no added sugar 
+(4): High-antioxidant beets [end of revised prompt]",1
+19,College student,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one of the following: 
+(1): Dynamite chili and tangy lime-seasoned beets 
+(2): Plain beets 
+(3): Lighter-choice beets with no added sugar 
+(4): Beets known for their high-antioxidant content. [end of revised prompt]",1
+20,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one of them. [end of revised prompt]
+(1): Beets seasoned with dynamite chili and tangy lime
+(2): Plain beets
+(3): Lighter-choice beets without any added sugar
+(4): Beets rich in antioxidants",1
+21,Teacher,"[start of revised prompt] There are four vegetable options in the cafeteria. Please choose one: 
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Plain beets
+            (3): Light-choice beets without added sugar
+            (4): Beets with high-antioxidant content [end of revised prompt]",1
+22,College student,"[start of revised prompt] There are four vegetable options available in the cafeteria. Please select one from the following: 
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Regular beets
+            (3): Lighter-choice beets with no added sugar
+            (4): Beets with high-antioxidant content. [end of revised prompt]",1
+23,Graduate student,"[start of revised prompt] The cafeteria offers four unique vegetable options. Please select one.
+            (1): Dynamite chili and tangy lime-seasoned beets
+            (2): Classic Beets
+            (3): Lighter-choice beets with no added sugar
+            (4): High-antioxidant beets",1
+24,Teacher,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one. [end of revised prompt]
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Traditional beets
+(3): Lighter-choice beets with no added sugar
+(4): High-antioxidant beets",1
+25,College student,"[start of revised prompt] The cafeteria offers four distinct vegetable options. Please select one of the following: 
+(1): Dynamite chili and tangy lime-seasoned beets 
+(2): Regular beets 
+(3): Lighter-choice beets with no added sugar 
+(4): High-antioxidant beets [end of revised prompt]",1
+26,Graduate student,"[start of revised prompt]There are four vegetable options available in the cafeteria. Please select one:
+(1) Dynamite chili and tangy lime-seasoned beets
+(2) Classic beets
+(3) Lighter-choice beets with no added sugar
+(4) High-antioxidant beets[end of revised prompt]",1
+27,College student,"[start of revised prompt] The cafeteria offers four different vegetable options. Please select one: 
+(1): Dynamite chili and tangy lime-seasoned beets
+(2): Classic beets
+(3): Lighter-choice beets with no added sugar
+(4): High-antioxidant beets [end of revised prompt]",1
+28,Graduate student,"[start of revised prompt]There are 4 vegetable options available in the cafeteria, please select one of them: 
+(1): Dynamite chili and tangy lime-seasoned vegetables 
+(2): Plain vegetables
+(3): Light-choice vegetables with no added sugar
+(4): High-antioxidant vegetables[end of revised prompt]",4
