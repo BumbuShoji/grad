@@ -1,0 +1,503 @@
+attribute,response,number
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 3. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+2. Boiled spinach with dried bonito
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 1. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 1. (Small size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 1. Boiled spinach with dried bonito
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+2. French fries Spicy
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 2. Boiled spinach with dried bonito
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 1. Boiled spinach with dried bonito
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 1. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish:
+3. Salt-grilled mackerel
+
+Side dish, Salad:
+1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 2. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+2. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+2. French fries Spicy
+
+Rice:
+2. (Medium size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Small size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 1. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Plain udon noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 3. Plain udon noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Deep-fried succulent chicken
+
+Side dish, Salad:
+2. French fries Spicy
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+2. Deep-fried succulent chicken
+
+Side dish, Salad:
+2. French fries Spicy
+
+Rice:
+2. (Medium size) Rice
+
+Noodles:
+3. Plain udon noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Salt-grilled mackerel
+
+Side dish, Salad:
+2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Salt-grilled mackerel
+Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+(Medium size) Rice
+Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 2. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 3. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 3. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish:
+2. Salt-grilled mackerel
+
+Side dish, Salad:
+2. Boiled spinach with dried bonito
+
+Rice:
+2. (Medium size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+
+Rice:
+2. (Medium size) Rice
+
+Noodles:
+2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 1. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+2. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+3. Boiled spinach with dried bonito
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 3. Plain udon noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Hamburger steak with arrabbiata sauce
+
+Side dish:
+2. French fries Spicy
+
+Rice:
+2. (Medium size) Rice
+
+Noodles:
+1. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Salt-grilled mackerel
+Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+(Medium size) Rice
+Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 2. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+2. Deep-fried succulent chicken
+
+Side dish, Salad:
+1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+
+Rice:
+1. (Small size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 3. Ramen in soy-sauce flavored soup","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 1}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Small size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Hamburger steak with arrabbiata sauce  
+Macaroni and corn salad (with wakame seaweed and shredded cabbage)  
+(Medium size) Rice  
+Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Small size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Hamburger steak with arrabbiata sauce
+Boiled spinach with dried bonito
+(Medium size) Rice
+Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Small size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Hamburger steak with arrabbiata sauce
+
+Side dish, Salad:
+2. Boiled spinach with dried bonito
+
+Rice:
+1. (Medium size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel  
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)  
+Rice: 3. (Medium size) Rice  
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Deep-fried succulent chicken
+
+Side dish, Salad:
+2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+
+Rice:
+1. (Small size) Rice
+
+Noodles:
+3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken  
+Side dish, Salad: 3. French fries Spicy  
+Rice: 1. (Medium size) Rice  
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 3. French fries Spicy
+Rice: 3. (Medium size) Rice
+Noodles: 1. Plain udon noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Small size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Salt-grilled mackerel, Macaroni and corn salad (with wakame seaweed and shredded cabbage), (Medium size) Rice, Zaru soba cool soba noodles.","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 3. Plain udon noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 1, 'Zaru soba cool soba noodles': 0, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish:
+3. Salt-grilled mackerel
+
+Side dish, Salad:
+3. Boiled spinach with dried bonito
+
+Rice:
+2. (Small size) Rice
+
+Noodles:
+1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Boiled spinach with dried bonito
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 1. Boiled spinach with dried bonito
+Rice: 3. (Medium size) Rice
+Noodles: 2. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 3. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Salt-grilled mackerel
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 3. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 1. (Small size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 1, '(Medium size) Rice': 0, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Hamburger steak with arrabbiata sauce
+Side dish, Salad: 1. French fries Spicy
+Rice: 1. (Medium size) Rice
+Noodles: 1. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 1, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken  
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)  
+Rice: 1. (Medium size) Rice  
+Noodles: 1. Zaru soba cool soba noodles  ","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 3. Deep-fried succulent chicken
+Side dish, Salad: 2. Macaroni and corn salad (with wakame seaweed and shredded cabbage)
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 1, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Deep-fried succulent chicken
+Side dish, Salad: 1. French fries Spicy
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 1, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 0, 'French fries Spicy': 1, 'Boiled spinach with dried bonito': 0, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
+You are Twenties.,"Main dish: 2. Salt-grilled mackerel
+Side dish, Salad: 1. Boiled spinach with dried bonito
+Rice: 2. (Medium size) Rice
+Noodles: 3. Zaru soba cool soba noodles","{'Deep-fried succulent chicken': 0, 'Hamburger steak with arrabbiata sauce': 0, 'Salt-grilled mackerel': 1, 'French fries Spicy': 0, 'Boiled spinach with dried bonito': 1, 'Macaroni and corn salad (with wakame seaweed and shredded cabbage)': 0, '(Small size) Rice': 0, '(Medium size) Rice': 1, '(Large size) Rice': 0, 'Plain udon noodles': 0, 'Zaru soba cool soba noodles': 1, 'Ramen in soy-sauce flavored soup': 0}"
