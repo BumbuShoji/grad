@@ -1,0 +1,90 @@
+{
+    "Q6S1": [
+        "Q6",
+        "The government should allow mass gatherings now"
+    ],
+    "Q6S2": [
+        "Q6",
+        "The government should continue to request self-restraint of mass gatherings"
+    ],
+    "Q6S3": [
+        "Q6",
+        "The government should limit movement in addition to mass gatherings"
+    ],
+    "Q7S1": [
+        "Q7",
+        "Extraverted, enthusiastic."
+    ],
+    "Q7S2": [
+        "Q7",
+        "Critical, quarrelsome."
+    ],
+    "Q7S3": [
+        "Q7",
+        "Dependable, self-disciplined."
+    ],
+    "Q7S4": [
+        "Q7",
+        "Anxious, easily upset."
+    ],
+    "Q7S5": [
+        "Q7",
+        "Open to new experiences, complex."
+    ],
+    "Q7S6": [
+        "Q7",
+        "Reserved, quiet."
+    ],
+    "Q7S7": [
+        "Q7",
+        "Sympathetic, warm."
+    ],
+    "Q7S8": [
+        "Q7",
+        "Disorganized, careless."
+    ],
+    "Q7S9": [
+        "Q7",
+        "Calm, emotionally stable."
+    ],
+    "Q7S10": [
+        "Q7",
+        "Conventional, uncreative."
+    ],
+    "Q8": [
+        "Q8",
+        "DRINK"
+    ],
+    "Q9": [
+        "Q9",
+        "SMOKE"
+    ],
+    "AGE": [
+        "AGE",
+        "AGE"
+    ],
+    "SEX": [
+        "SEX",
+        "SEX"
+    ],
+    "MARRIED": [
+        "MARRIED",
+        "MARRIED"
+    ],
+    "UNIV": [
+        "UNIV",
+        "GRADUATE UNIVERSITY"
+    ],
+    "CHILD": [
+        "CHILD",
+        "CHILD"
+    ],
+    "WORK": [
+        "WORK",
+        "WORK"
+    ],
+    "HINCOME": [
+        "HINCOME",
+        "HOUSE INCOME"
+    ]
+}

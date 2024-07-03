@@ -1,0 +1,66 @@
+QuestionID,SubQuestionID,ChoiceID,ChoiceText,QuestionText
+Q1,Q1S1,1,TV news programs,TV news programs
+Q1,Q1S2,2,TV talk and variety shows,TV talk and variety shows
+Q1,Q1S3,3,Newspapers (national and local newspapers),Newspapers (national and local newspapers)
+Q1,Q1S4,4,Tabloid paper,Tabloid paper
+Q1,Q1S5,5,Internet news sites,Internet news sites
+Q1,Q1S6,6,SNS app news,SNS app news
+Q1,Q1S7,7,Information sent by the Prime Minister,Information sent by the Prime Minister
+Q1,Q1S8,8,"Information sent by the Ministry of Health, Labor and Welfare","Information sent by the Ministry of Health, Labor and Welfare"
+Q1,Q1S9,9,Information provided by government Expert Meetings,Information provided by government Expert Meetings
+Q1,Q1S10,10,Information sent by local (prefecture) government,Information sent by local (prefecture) government
+Q2,Q2S1,1,TV news programs,TV news programs
+Q2,Q2S2,2,TV talk and variety shows,TV talk and variety shows
+Q2,Q2S3,3,Newspapers (national and local newspapers),Newspapers (national and local newspapers)
+Q2,Q2S4,4,Tabloid paper,Tabloid paper
+Q2,Q2S5,5,Internet news sites,Internet news sites
+Q2,Q2S6,6,SNS app news,SNS app news
+Q2,Q2S7,7,Information sent by the Prime Minister,Information sent by the Prime Minister
+Q2,Q2S8,8,"Information sent by the Ministry of Health, Labor and Welfare","Information sent by the Ministry of Health, Labor and Welfare"
+Q2,Q2S9,9,Information provided by government Expert Meetings,Information provided by government Expert Meetings
+Q2,Q2S10,10,Information sent by local (prefecture) government,Information sent by local (prefecture) government
+Q3,Q3,1,Have you ever conducted any measures to prevent novel coronavirus infections or outbreaks?,Have you ever conducted any measures to prevent novel coronavirus infections or outbreaks?
+Q4,Q4,1,What was the most important event influencing these actions?,What was the most important event influencing these actions?
+Q5,Q5S1,1,Avoid a poorly-ventilated closed space,Avoid a poorly-ventilated closed space
+Q5,Q5S2,2,Avoid large gatherings,Avoid large gatherings
+Q5,Q5S3,3,Avoid conversations or shouting in close proximity,Avoid conversations or shouting in close proximity
+Q5,Q5S4,4,Avoid places where items 1-3 above overlap,Avoid places where items 1-3 above overlap
+Q5,Q5S5,5,Do not go to dinner with friends,Do not go to dinner with friends
+Q5,Q5S6,6,Do not go to mass gatherings,Do not go to mass gatherings
+Q5,Q5S7,7,Participate in virtual events using online tools,Participate in virtual events using online tools
+Q5,Q5S8,8,Undertake frequent handwashing,Undertake frequent handwashing
+Q5,Q5S9,9,Undertake cough etiquette (use hand-kerchiefs or sleeves instead of hands),Undertake cough etiquette (use hand-kerchiefs or sleeves instead of hands)
+Q5,Q5S10,10,Disinfect things around,Disinfect things around
+Q5,Q5S11,11,Avoid going out when you have a cold,Avoid going out when you have a cold
+Q5,Q5S12,12,Avoid going to clinic even when having a cold symptom,Avoid going to clinic even when having a cold symptom
+Q5,Q5S13,13,Prepare consultation and transportation methods for when you feel ill,Prepare consultation and transportation methods for when you feel ill
+Q5,Q5S14,14,Always wear a surgical-style mask when going out,Always wear a surgical-style mask when going out
+Q5,Q5S15,15,Stockpile surgical-style mask,Stockpile surgical-style mask
+Q5,Q5S16,16,"Stockpile food, toilet paper, tissue paper, etc.","Stockpile food, toilet paper, tissue paper, etc."
+Q5,Q5S17,17,Avoid contact with younger people,Avoid contact with younger people
+Q5,Q5S18,18,Avoid contact with the older people,Avoid contact with the older people
+Q5,Q5S19,19,Get sufficient rest and sleep,Get sufficient rest and sleep
+Q5,Q5S20,20,Eat a nutritious diet,Eat a nutritious diet
+Q5,Q5S21,21,Do exercise such as a jogging or exercise using DVD,Do exercise such as a jogging or exercise using DVD
+Q6,Q6S1,1,The government should allow mass gatherings now,The government should allow mass gatherings now
+Q6,Q6S2,2,The government should continue to request self-restraint of mass gatherings,The government should continue to request self-restraint of mass gatherings
+Q6,Q6S3,3,The government should limit movement in addition to mass gatherings,The government should limit movement in addition to mass gatherings
+Q7,Q7S1,1,"Extraverted, enthusiastic.","Extraverted, enthusiastic."
+Q7,Q7S2,2,"Critical, quarrelsome.","Critical, quarrelsome."
+Q7,Q7S3,3,"Dependable, self-disciplined.","Dependable, self-disciplined."
+Q7,Q7S4,4,"Anxious, easily upset.","Anxious, easily upset."
+Q7,Q7S5,5,"Open to new experiences, complex.","Open to new experiences, complex."
+Q7,Q7S6,6,"Reserved, quiet.","Reserved, quiet."
+Q7,Q7S7,7,"Sympathetic, warm.","Sympathetic, warm."
+Q7,Q7S8,8,"Disorganized, careless.","Disorganized, careless."
+Q7,Q7S9,9,"Calm, emotionally stable.","Calm, emotionally stable."
+Q7,Q7S10,10,"Conventional, uncreative.","Conventional, uncreative."
+Q8,Q8,,DRINK,DRINK
+Q9,Q9,,SMOKE,SMOKE
+AGE,AGE,,AGE,AGE
+SEX,SEX,,SEX,SEX
+MARRIED,MARRIED,,MARRIED,MARRIED
+UNIV,UNIV,,GRADUATE UNIVERSITY,GRADUATE UNIVERSITY
+CHILD,CHILD,,CHILD,CHILD
+WORK,WORK,,WORK,WORK
+HINCOME,HINCOME,,HOUSE INCOME,HOUSE INCOME

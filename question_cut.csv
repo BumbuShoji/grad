@@ -1,0 +1,23 @@
+QuestionID,SubQuestionID,ChoiceID,ChoiceText,QuestionText
+Q6,Q6S1,1.0,The government should allow mass gatherings now,The government should allow mass gatherings now
+Q6,Q6S2,2.0,The government should continue to request self-restraint of mass gatherings,The government should continue to request self-restraint of mass gatherings
+Q6,Q6S3,3.0,The government should limit movement in addition to mass gatherings,The government should limit movement in addition to mass gatherings
+Q7,Q7S1,1.0,"Extraverted, enthusiastic.","Extraverted, enthusiastic."
+Q7,Q7S2,2.0,"Critical, quarrelsome.","Critical, quarrelsome."
+Q7,Q7S3,3.0,"Dependable, self-disciplined.","Dependable, self-disciplined."
+Q7,Q7S4,4.0,"Anxious, easily upset.","Anxious, easily upset."
+Q7,Q7S5,5.0,"Open to new experiences, complex.","Open to new experiences, complex."
+Q7,Q7S6,6.0,"Reserved, quiet.","Reserved, quiet."
+Q7,Q7S7,7.0,"Sympathetic, warm.","Sympathetic, warm."
+Q7,Q7S8,8.0,"Disorganized, careless.","Disorganized, careless."
+Q7,Q7S9,9.0,"Calm, emotionally stable.","Calm, emotionally stable."
+Q7,Q7S10,10.0,"Conventional, uncreative.","Conventional, uncreative."
+Q8,Q8,,DRINK,DRINK
+Q9,Q9,,SMOKE,SMOKE
+AGE,AGE,,AGE,AGE
+SEX,SEX,,SEX,SEX
+MARRIED,MARRIED,,MARRIED,MARRIED
+UNIV,UNIV,,GRADUATE UNIVERSITY,GRADUATE UNIVERSITY
+CHILD,CHILD,,CHILD,CHILD
+WORK,WORK,,WORK,WORK
+HINCOME,HINCOME,,HOUSE INCOME,HOUSE INCOME

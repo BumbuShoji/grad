@@ -1,0 +1,44 @@
+QuestionID,SubQuestionID,ChoiceID,ChoiceText
+Q6,Choices,1.0,Agree
+Q6,Choices,2.0,Relatively agree
+Q6,Choices,3.0,Neither
+Q6,Choices,4.0,Relatively disagree
+Q6,Choices,5.0,Disagree
+Q6,Choices,6.0,Do not know
+Q7,Choices,1.0,Agree strongly
+Q7,Choices,2.0,Agree
+Q7,Choices,3.0,Disagree
+Q7,Choices,4.0,Disagree strongly
+Q8,Choices,1.0,Never drink
+Q8,Choices,2.0,"I used to drink, but I quitted"
+Q8,Choices,3.0,Few times per month
+Q8,Choices,4.0,1-2 times per week
+Q8,Choices,5.0,3-6 times per week
+Q8,Choices,6.0,Every day
+Q9,Choices,1.0,Every day
+Q9,Choices,2.0,Sometimes
+Q9,Choices,3.0,Used to smoke but do not now
+Q9,Choices,4.0,Never smoked
+AGE,Choices,,(continuous number)
+SEX,Choices,1.0,Male
+SEX,Choices,2.0,Female
+MARRIED,Choices,1.0,Married
+MARRIED,Choices,2.0,Not married
+UNIV,Choices,1.0,Yes
+UNIV,Choices,2.0,No
+CHILD,Choices,1.0,Yes
+CHILD,Choices,2.0,No
+WORK,Choices,1.0,Regular employee
+WORK,Choices,2.0,Non-regular employee
+WORK,Choices,3.0,Self-employed and others
+WORK,Choices,4.0,Not working
+HINCOME,Choices,1.0,"Less than 2,000K JPY"
+HINCOME,Choices,2.0,"2,000-3,999K JPY"
+HINCOME,Choices,3.0,"4,000-5,999K JPY"
+HINCOME,Choices,4.0,"6,000-6,999K JPY"
+HINCOME,Choices,5.0,"8,000-8,999K JPY"
+HINCOME,Choices,6.0,"10,000-11,999K JPY"
+HINCOME,Choices,7.0,"12,000-14,999K JPY"
+HINCOME,Choices,8.0,"15,000-19,999K JPY"
+HINCOME,Choices,9.0,"More than 20,000K JPY"
+HINCOME,Choices,10.0,Do not know
